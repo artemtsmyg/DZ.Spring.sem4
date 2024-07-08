@@ -24,3 +24,12 @@ b) Использовать аннотации @ConfigurationProperties и @Conf
 
 
 ![2024-07-08_18-32-37](https://github.com/artemtsmyg/DZ.Spring.sem4/assets/129445769/a8863e42-b9aa-40ab-8ebe-0fab51021f36)
+
+![2024-07-08_18-36-03](https://github.com/artemtsmyg/DZ.Spring.sem4/assets/129445769/63beb060-3758-46b8-a5b5-d1425991608d)
+
+![2024-07-08_18-36-53](https://github.com/artemtsmyg/DZ.Spring.sem4/assets/129445769/c00b1af4-32f5-4275-8b06-668a68b86e40)
+
+![2024-07-08_18-38-10](https://github.com/artemtsmyg/DZ.Spring.sem4/assets/129445769/49d4b3d0-e1e4-4ae8-a8b9-3ea309eb15c8)
+
+
+
